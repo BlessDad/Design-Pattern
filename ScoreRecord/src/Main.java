@@ -15,6 +15,7 @@ public class Main {
         scoreRecord.attach(d3);
         scoreRecord.attach(d4);
         scoreRecord.attach(d5);
+        scoreRecord.attach(new SecondMax(scoreRecord));
 
 
 

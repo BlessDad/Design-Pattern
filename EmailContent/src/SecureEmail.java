@@ -1,12 +1,12 @@
 public class SecureEmail extends Decorator {
-    private EmailContent email;
-    public SecureEmail(EmailContent e){
-        this.email = e;
+
+    public SecureEmail(Email e){
+        super(e);
     }
 
     public String getContent(){
         String content = super.getContent();
-        return encrypt(email.getContent());
+        return encrypt(super.getContent());
     }
 
     private String encrypt(String content){

@@ -1,12 +1,12 @@
 public class ExternalEmail extends Decorator {
 
-    private EmailContent email;
-    public ExternalEmail(EmailContent email){
-        this.email = email;
+    public ExternalEmail(Email e){
+       super(e);
     }
 
     public String getContent(){
-        return disclaimer(email.getContent());
+        super.getContent();
+        return disclaimer(super.getContent());
 
     }
 

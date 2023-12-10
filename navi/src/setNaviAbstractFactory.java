@@ -1,7 +1,7 @@
 public class setNaviAbstractFactory {
     // abstract factory 로 만든 네비에 기능 부여
     private NaviAbstractF naviAbstractFactory;
-    public void setNaviAbstractFactory(NaviAbstractF navi){
+    public setNaviAbstractFactory(NaviAbstractF navi){
         this.naviAbstractFactory = navi;
     }
 

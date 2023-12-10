@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e191520-f3f4-4e9d-b841-84e3578f1601" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../EmailContent/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeDecorator/PracticeDecorator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeDecorator/src/ACC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeDecorator/src/ADAS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeDecorator/src/BenzCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeDecorator/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeDecorator/src/DecoratorCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeDecorator/src/HUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeDecorator/src/HyundaiCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeDecorator/src/Sunroof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeDecorator/src/TPMS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeObserver1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeObserver1/src/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeObserver1/src/ObserverX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeObserver1/src/SensorX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeObserver1/src/Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeObserver1/src/displayX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ScoreRecord/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ScoreRecord/src/SecondMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Battery/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Battery/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DecoratorPractice_Car/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DecoratorPractice_Car/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EmailContent/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../EmailContent/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EmailContent/src/Decorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EmailContent/src/Decorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EmailContent/src/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EmailContent/src/Email.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EmailContent/src/ExternalEmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EmailContent/src/ExternalEmail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EmailContent/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EmailContent/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EmailContent/src/SecureEmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../EmailContent/src/SecureEmail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EmailContent/src/SecureExternalEmail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PracticeObserver1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PracticeObserver1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ScoreRecord/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ScoreRecord/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ScoreRecord/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ScoreRecord/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2Z2GlG6bt60Me3HePXwPlp2gRnp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/BlessDad/Documents/GitHub/Design-Pattern/TemplateMethod/src",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e191520-f3f4-4e9d-b841-84e3578f1601" name="Changes" comment="" />
+      <created>1701612909465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701612909465</updated>
+      <workItem from="1701612910479" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
