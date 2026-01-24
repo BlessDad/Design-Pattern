@@ -14,6 +14,10 @@ public abstract class Door {
         doClose();
         doorState = DoorState.CLOSED;
     }
+    // what kind of font size is better for me ?
+    // choose one
+    // it's better size ?
+    // i think it's better size.
 
     protected abstract void doClose();
 
